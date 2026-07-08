@@ -70,6 +70,7 @@ The computational workflow employed in this project consisted of the following s
 ```text
 berberine-molecular-docking-admet
 │
+├── README.md
 ├── Workflow/
 ├── Protein/
 ├── Ligand/
@@ -135,9 +136,9 @@ ProTox-3 predicted an oral LD₅₀ of **200 mg/kg**, corresponding to **Toxicit
 
 ## Project Report
 
-The complete project report is available in this repository:
+The complete project report can be accessed here:
 
-**Molecular_Docking_and_ADMET_Prediction_of_Berberine.pdf**
+📄 **Molecular_Docking_and_ADMET_Prediction_of_Berberine.pdf**
 
 ---
 
