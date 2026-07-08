@@ -1,7 +1,7 @@
 # Molecular Docking and ADMET Prediction of Berberine Against Type 2 Diabetes Mellitus Targets
 
 <p align="center">
-<img src="Workflow/workflow.jpeg" width="1000">
+<img src="Workflow/Workflow.jpeg" width="1000">
 </p>
 
 ## Project Overview
